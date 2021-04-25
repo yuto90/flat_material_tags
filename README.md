@@ -5,14 +5,16 @@ If you find a bug, please report it.
 
 <img src="https://user-images.githubusercontent.com/53107639/115950932-0addb700-a519-11eb-9199-eeca4c8cf927.png" width=50%>
 
-| Property            | Type         | Note                                                                                                        |
+### Property
+
+| Name                | Type         | Note                                                                                                        |
 | ------------------- | ------------ | ----------------------------------------------------------------------------------------------------------- |
 | leftArea            | Widget       | Set the widget on the left                                                                                  |
 | rightArea           | Widget       | Set the widget on the right                                                                                 |
 | leftAreaColor       | Color        | Set the background color on the left side                                                                   |
 | rightAreaColor      | Color        | Set the background color on the right side                                                                  |
 | borderColor         | Color        | Set the tag border color                                                                                    |
-| borderWidth;        | double       | Set the width of the tag border                                                                             |
+| borderWidth         | double       | Set the width of the tag border                                                                             |
 | radiusTopLeft       | double       | Set the upper left radius of the tag                                                                        |
 | radiusBottomLeft    | double       | Set the lower left radius of the tag                                                                        |
 | radiusTopRight      | double       | Set the upper right radius of the tag                                                                       |
